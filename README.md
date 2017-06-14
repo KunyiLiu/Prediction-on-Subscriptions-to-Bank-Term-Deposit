@@ -15,9 +15,9 @@ In this step, I will perform the following actions:
 4. Perform basic feature engineering which will be used accross all model sets.
 5. make some hypothesis using the plots and try to make some features representing them. Note that these features might/might not work because they are just hypothesis.   
 **Visualization for Categorical Features**
-[image1](image1.JPG)  
+![image1](image1.JPG)  
 **Visualization for Contibuoous Features**  
-[image2](image2.JPG)  
+![image2](image2.JPG)  
 
 ## Step2 - ModelSet1 
 In this step, we expect you to perform the following steps relevant to the models you choose for set1:
@@ -27,7 +27,7 @@ In this step, we expect you to perform the following steps relevant to the model
 4. final model selection
 In section you are supposed to test models apart from tree-based models, like SVM, Logistic Regression  
 **Importance of Features**  
-[image3](image3.JPG)
+![image3](image3.JPG)
 
 ## Step3 - ModelSet2
 In section you are supposed to test tree-based models, like decision tree, random forest, gradient boosted trees, etc.
